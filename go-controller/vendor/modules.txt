@@ -1323,7 +1323,6 @@ k8s.io/kubernetes/pkg/features
 k8s.io/kubernetes/pkg/probe
 k8s.io/kubernetes/pkg/probe/http
 k8s.io/kubernetes/pkg/util/hash
-k8s.io/kubernetes/pkg/util/iptables
 # k8s.io/utils v0.0.0-20260210185600-b8788abfbbc2
 ## explicit; go 1.23
 k8s.io/utils/buffer
