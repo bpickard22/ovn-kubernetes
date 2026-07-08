@@ -7,3 +7,6 @@ contrib/bin
 ovn-kubernetes-anp-test-report.yaml
 
 **/ginkgo.report
+
+# Claude Code worktrees (created per-session, not part of repo history)
+.claude/worktrees/
